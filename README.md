@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiyaziKeloglu, i'm former lawyer and a new traniee developer. 
 - 👀 I’m interested in AI, robotics, blockchain.
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C#, SQL, html,css,js
 - 📫 How to reach me www.linkedin.com/in/niyazi-keloglu
 
 <!---
